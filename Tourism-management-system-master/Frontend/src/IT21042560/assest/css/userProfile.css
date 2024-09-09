@@ -1,0 +1,39 @@
+.divcenter {
+    text-align: center;
+  }
+  
+  .profile-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1px;
+  }
+  
+  .profile-details__title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-right: 10px;
+  }
+  
+  .profile-details__value {
+    font-size: 20px;
+    color: #777;
+  }
+  
+  .edit-button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .edit-button {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    transition: all 0.3s ease;
+  }
+  
